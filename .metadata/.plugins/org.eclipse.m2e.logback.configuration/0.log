@@ -1,0 +1,10 @@
+2015-11-22 00:16:01,049 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.practice.jnuit:Junit1:0.0.1-SNAPSHOT @ D:\eclipse workspace\Junit1\pom.xml.
+2015-11-22 00:16:02,369 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Junit1/src/main/java
+2015-11-22 00:16:02,369 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Junit1/src/main/resources
+2015-11-22 00:16:02,370 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Junit1/src/test/java
+2015-11-22 00:16:02,371 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Junit1/src/test/resources
+2015-11-22 00:16:03,463 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2015-11-22 00:16:04,343 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-22 00:16:04,351 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-22 00:16:04,355 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-22 00:16:04,357 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
